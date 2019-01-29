@@ -1,0 +1,12 @@
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.exe.config
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.pdb
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.vbprojAssemblyReference.cache
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.Form1.resources
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.Resources.resources
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.vbproj.GenerateResource.cache
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.vbproj.CoreCompileInputs.cache
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.pdb

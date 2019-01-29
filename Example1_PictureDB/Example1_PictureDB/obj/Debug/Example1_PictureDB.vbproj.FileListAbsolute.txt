@@ -1,0 +1,12 @@
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.exe.config
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.pdb
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbprojAssemblyReference.cache
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.Form1.resources
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.Resources.resources
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbproj.GenerateResource.cache
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbproj.CoreCompileInputs.cache
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.pdb
