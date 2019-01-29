@@ -17,4 +17,25 @@ Public Class Form1
         conn.Close()
     End Sub
 
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        showData()
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        conn.Open()
+        Dim sql As String = "insert into categories(categoryname,description)
+                             values(@categoryname,@description)
+                            "
+        Dim cmd As New SqlCommand(sql, conn)
+        cmd.Parameters.AddWithValue("categoryname", TextBox1.Text)
+        cmd.Parameters.AddWithValue("description", TextBox2.Text)
+
+        If cmd.ExecuteNonQuery = -1 Then
+            MessageBox.Show("Error on input new data")
+        Else
+            MessageBox.Show("inputed new data")
+        End If
+        conn.Close()
+        showData()
+    End Sub
 End Class

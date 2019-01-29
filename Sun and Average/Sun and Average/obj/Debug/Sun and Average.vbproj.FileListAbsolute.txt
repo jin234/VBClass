@@ -1,0 +1,12 @@
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\bin\Debug\Sun and Average.exe.config
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\bin\Debug\Sun and Average.exe
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\bin\Debug\Sun and Average.pdb
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\bin\Debug\Sun and Average.xml
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun_and_Average.Form1.resources
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun_and_Average.Resources.resources
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun and Average.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun and Average.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun and Average.exe
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun and Average.xml
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun and Average.pdb
+D:\58121003-6\VBClass2\Sun and Average\Sun and Average\obj\Debug\Sun and Average.vbprojResolveAssemblyReference.cache

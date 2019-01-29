@@ -1,0 +1,11 @@
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\bin\Debug\WithDrawalDemoSystem.exe.config
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\bin\Debug\WithDrawalDemoSystem.exe
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\bin\Debug\WithDrawalDemoSystem.pdb
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\bin\Debug\WithDrawalDemoSystem.xml
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.Form1.resources
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.Resources.resources
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.exe
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.xml
+D:\58121003-6\VBClass2\WithDrawalDemoSystem\WithDrawalDemoSystem\obj\Debug\WithDrawalDemoSystem.pdb

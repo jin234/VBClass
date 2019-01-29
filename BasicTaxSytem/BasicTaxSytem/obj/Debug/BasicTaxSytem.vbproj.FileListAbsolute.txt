@@ -1,0 +1,12 @@
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\bin\Debug\BasicTaxSytem.exe.config
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\bin\Debug\BasicTaxSytem.exe
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\bin\Debug\BasicTaxSytem.pdb
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\bin\Debug\BasicTaxSytem.xml
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.Form1.resources
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.Resources.resources
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.exe
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.xml
+D:\58121003-6\VBClass2\BasicTaxSytem\BasicTaxSytem\obj\Debug\BasicTaxSytem.pdb

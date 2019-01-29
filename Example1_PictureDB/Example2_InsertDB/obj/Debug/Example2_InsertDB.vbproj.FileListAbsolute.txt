@@ -10,3 +10,15 @@ D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.
 D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.exe
 D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.xml
 D:\VB.NET Code\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.pdb
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.exe.config
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.exe
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.pdb
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\bin\Debug\Example2_InsertDB.xml
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.vbprojResolveAssemblyReference.cache
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.Form1.resources
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.Resources.resources
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.vbproj.GenerateResource.cache
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.vbproj.CoreCompileInputs.cache
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.exe
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.xml
+C:\Users\58121003-6\Source\Repos\VBClass\Example1_PictureDB\Example2_InsertDB\obj\Debug\Example2_InsertDB.pdb

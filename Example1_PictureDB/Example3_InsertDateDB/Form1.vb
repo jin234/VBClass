@@ -17,4 +17,31 @@ Public Class Form1
         conn.Close()
     End Sub
 
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        conn.Open()
+
+        Dim sql As String = "insert into employees(firstname, lastname, birthdate)
+                             values(@firstname,@lastname,@birthdate)
+                            "
+        Dim cmd As New SqlCommand(sql, conn)
+        cmd.Parameters.AddWithValue("firstname", TextBox1.Text)
+        cmd.Parameters.AddWithValue("lastname", TextBox2.Text)
+        Dim birthdate As String = DateTimePicker1.Value.Year & "/" &
+                                    DateTimePicker1.Value.Month & "/" &
+                                    DateTimePicker1.Value.Day
+        cmd.Parameters.AddWithValue("birthdate", birthdate)
+
+        If cmd.ExecuteNonQuery = -1 Then
+            MessageBox.Show("Error on input new data")
+        Else
+            MessageBox.Show("inputed new data")
+        End If
+
+        conn.Close()
+        showData()
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        showData()
+    End Sub
 End Class

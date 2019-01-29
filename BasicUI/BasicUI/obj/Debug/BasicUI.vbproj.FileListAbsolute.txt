@@ -1,0 +1,12 @@
+D:\58121003-6\VbClass1\BasicUI\BasicUI\bin\Debug\BasicUI.exe.config
+D:\58121003-6\VbClass1\BasicUI\BasicUI\bin\Debug\BasicUI.exe
+D:\58121003-6\VbClass1\BasicUI\BasicUI\bin\Debug\BasicUI.pdb
+D:\58121003-6\VbClass1\BasicUI\BasicUI\bin\Debug\BasicUI.xml
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.Form1.resources
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.Resources.resources
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.vbproj.GenerateResource.cache
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.exe
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.xml
+D:\58121003-6\VbClass1\BasicUI\BasicUI\obj\Debug\BasicUI.pdb

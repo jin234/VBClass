@@ -1,0 +1,11 @@
+D:\58121003-6\VbClass1\Practice4\Practice4\bin\Debug\Practice4.exe.config
+D:\58121003-6\VbClass1\Practice4\Practice4\bin\Debug\Practice4.exe
+D:\58121003-6\VbClass1\Practice4\Practice4\bin\Debug\Practice4.pdb
+D:\58121003-6\VbClass1\Practice4\Practice4\bin\Debug\Practice4.xml
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.Form1.resources
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.Resources.resources
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.vbproj.GenerateResource.cache
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.exe
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.xml
+D:\58121003-6\VbClass1\Practice4\Practice4\obj\Debug\Practice4.pdb

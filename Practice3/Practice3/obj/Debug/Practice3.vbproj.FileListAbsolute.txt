@@ -1,0 +1,11 @@
+D:\58121003-6\VbClass1\Practice3\Practice3\bin\Debug\Practice3.exe.config
+D:\58121003-6\VbClass1\Practice3\Practice3\bin\Debug\Practice3.exe
+D:\58121003-6\VbClass1\Practice3\Practice3\bin\Debug\Practice3.pdb
+D:\58121003-6\VbClass1\Practice3\Practice3\bin\Debug\Practice3.xml
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.Form1.resources
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.Resources.resources
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.vbproj.GenerateResource.cache
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.exe
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.xml
+D:\58121003-6\VbClass1\Practice3\Practice3\obj\Debug\Practice3.pdb
