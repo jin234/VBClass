@@ -1,0 +1,12 @@
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\bin\Debug\VBDota2WinPredic.exe.config
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\bin\Debug\VBDota2WinPredic.exe
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\bin\Debug\VBDota2WinPredic.pdb
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\bin\Debug\VBDota2WinPredic.xml
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.Form1.resources
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.Resources.resources
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.vbproj.GenerateResource.cache
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.exe
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.xml
+D:\58121003-6\VBDota2WinPredic\VBDota2WinPredic\VBDota2WinPredic\obj\Debug\VBDota2WinPredic.pdb
